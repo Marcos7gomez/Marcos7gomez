@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Marcos Gómez</h1>
-<h3 align="center">Soy estudiante de Tecnicatura Superior en Programación en Universidad Tecnológica Nacional sede San Rafael, Mendoza</h3>
+<h3 align="center">Soy técnico universitario en programación graduado en Universidad Tecnológica Nacional sede San Rafael, Mendoza</h3>
 
 
 - 💬 Ask me about **Java, Python, JavaScript**
