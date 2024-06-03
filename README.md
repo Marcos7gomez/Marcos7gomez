@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Marcos Gómez</h1>
-<h3 align="center">Soy estudiante de Tecnicatura Superior en Programación en Universidad Tecnológica Nacional sede San Rafael, Mendoza</h3>
+<h3 align="center">Soy Técnico Superior en Programación graduado en Universidad Tecnológica Nacional sede San Rafael, Mendoza</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcos7gomez" alt="marcos7gomez" /></a> </p>
 
