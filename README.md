@@ -18,7 +18,7 @@ claude code ✓ revisión humana
 
 ## 🧑‍💻 Sobre mí
 
-- 🔐 Desde **agosto de 2024** soy **Consultor de Ciberseguridad en Assertiva**, especializado en gestión de identidades y accesos (**IAM / IGA**) sobre **SailPoint Identity Security Cloud** y **SAP GRC**.
+- 🔐 Desde **agosto de 2024** soy **Consultor de Ciberseguridad en Assertiva**, especializado en gestión de identidades y accesos (**IAM / IGA**) sobre **SailPoint Identity Security Cloud**.
 - 🎓 **Técnico Universitario en Programación** — Universidad Tecnológica Nacional (UTN), 2022–2023.
 - 📍 San Rafael, Mendoza, Argentina.
 - 🤖 Uso **Claude Code** como herramienta de ingeniería: contexto documentado, tareas acotadas, pruebas y revisión humana de cada cambio.
@@ -27,16 +27,12 @@ claude code ✓ revisión humana
 ## 💼 Qué hago
 
 **Identidades (SailPoint ISC)**
-- Integración de **Active Directory** y de los gestores de usuarios externos **NELM** y **NERM**.
+- Integración de **Active Directory**, **SAP GRC** y los gestores de usuarios externos **NELM** y **NERM**.
 - Automatización del ciclo de vida de identidades (**altas, modificaciones y bajas**) con **Workflows, Forms y Transforms**, orientados a eventos.
 - Reglas de conector en **Java y BeanShell**, y scripts **PowerShell en IQService** (validación de documentos, vigencias, normalización y logs de auditoría).
 - Integración con la **API REST de ISC** con **OAuth 2.0** y credenciales en bóveda.
 - Circuitos de aprobación con plazos, recordatorios y notificaciones.
 - Pruebas unitarias, integrales, **E2E y UAT**, y pases a producción en sprints ágiles.
-
-**SAP**
-- Gestión de accesos con **SAP GRC** y sus sistemas satélite: **SAP S/4HANA**, **SAP Fiori** y otros módulos del ecosistema SAP.
-- Administración de usuarios, roles y autorizaciones, con foco en el control de accesos y la segregación de funciones.
 
 **Desarrollo**
 - 🌐 **Modo Web** (proyecto propio, 2026): plataforma para armar sitios web sin saber programar. Más de 50 plantillas, editor visual, importación de catálogos PDF/Word/Excel/CSV con OCR, asistente de voz con IA, cobros con Mercado Pago, control de acceso por roles y seguridad desde el diseño (CSP estricta, sanitización de URLs).
@@ -49,17 +45,12 @@ claude code ✓ revisión humana
 
 ![SailPoint ISC](https://img.shields.io/badge/SailPoint_ISC-0033A1?style=flat&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDBoMTF2MTFIMHpNMTMgMGgxMXYxMUgxM3pNMCAxM2gxMXYxMUgwek0xMyAxM2gxMXYxMUgxM3oiLz48L3N2Zz4%3D&logoColor=white)
+![SAP GRC](https://img.shields.io/badge/SAP_GRC-0FAAFF?style=flat&logo=sap&logoColor=white)
 ![NELM](https://img.shields.io/badge/NELM-555?style=flat)
 ![NERM](https://img.shields.io/badge/NERM-555?style=flat)
 ![IAM / IGA](https://img.shields.io/badge/IAM_/_IGA-555?style=flat)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat&logo=auth0&logoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC-555?style=flat)
-
-**SAP**
-
-![SAP GRC](https://img.shields.io/badge/SAP_GRC-0FAAFF?style=flat&logo=sap&logoColor=white)
-![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat&logo=sap&logoColor=white)
-![SAP Fiori](https://img.shields.io/badge/SAP_Fiori-0FAAFF?style=flat&logo=sap&logoColor=white)
 
 **Lenguajes**
 
@@ -92,12 +83,6 @@ claude code ✓ revisión humana
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djE0YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTNWNU00IDEyYzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTMiLz48L3N2Zz4%3D&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=marcos7gomez&locale=es" alt="Racha de contribuciones en GitHub" />
-</p>
 
 ---
 
